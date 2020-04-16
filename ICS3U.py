@@ -65,6 +65,5 @@ def tutorial(running):
 
         display.flip()
         myclock.tick(60)
-        print(myClock.get_ticks)
 tutorial(running)
 quit()
